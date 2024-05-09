@@ -1,0 +1,7 @@
+Aula 11
+
+Constantes
+\\define("NOME", "xxx");
+\\define("TIMES", ['xx', 'yy', 'zz']);
+    echo TIMES[0];
+    

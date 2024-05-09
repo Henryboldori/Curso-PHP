@@ -1,0 +1,16 @@
+Aula 15, 16, 17, 18
+
+Funcoes de Arrays
+
+Verificar se um determinado valor existe no vetor   \\ in_array("x", $y)
+Retorna um novo vetor com as chaves do array passado   \\ array_keys($y)
+Retorna um novo vetor com os valores do array passado como parametro   \\ array_values($y)
+Soma o conteudo de dois Arrays  \\array_merge ($x, $y)
+Exclui ultima posicao do vetor  \\array_pop($y)
+Exclui primeira posicao do vetor  \\array_shift($y)
+Adiciona um ou mais elementos no inicio do array    \\ array_unshift($y, "xx")
+Adiciona um ou mais elementos no final do array     \\ array_push($y, "xx")
+Mesclar dois Arrays     \\array_combine ($x, $y)
+Calcular soma dos elementos de um array     \\array_sum ($y)
+Transformar string em array         \\explode(delimiter, $y)
+Transformar array em string         \\implode(delimiter, $y)

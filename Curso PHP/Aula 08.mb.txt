@@ -1,0 +1,17 @@
+Aula 08
+
+Tipos de dados
+    Escalares:
+        String    // var_dump($nome);  // is_string($nome);  
+        int       // is_int();
+        float     // is_float();
+        boolean   // is_bool();
+
+    Compostos:
+        Array     // $xx = array("x", "y", "z", 12.2);
+        object    // class     is_object();
+
+    Especiais:
+        NULL
+        Resource       
+            

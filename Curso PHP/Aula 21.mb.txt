@@ -1,0 +1,10 @@
+Aula 21
+
+Operadores aritmeticos 
+Adicao  - +
+Subtracao   -  -
+Multiplicacao   -   *
+Divisao     -   /
+Modulo      -   %
+Exponenciacao   -   **
+

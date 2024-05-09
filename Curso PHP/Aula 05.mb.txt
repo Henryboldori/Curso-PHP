@@ -1,0 +1,5 @@
+Aula 05
+
+Fundamentos basicos PHP
+inicio/fim codigo  // <?php  /   ?>
+Imprimir na tela  //  echo ou print

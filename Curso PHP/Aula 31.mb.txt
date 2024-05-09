@@ -1,0 +1,9 @@
+Aula 31
+
+Criar funcoes
+function x(){
+
+}
+
+Necessario chamar a funcao  \\x();
+Passar parametros dentro dos parenteses

@@ -1,0 +1,8 @@
+Aula 30
+
+Funcoes para numeros
+number_format   (formata o numero)
+round           (Arredonda valores)
+ceil            (Arredonda valores para cima)
+floor           (Arredonda valores para baixo)
+rand            (Gera numeros aleatorios)    

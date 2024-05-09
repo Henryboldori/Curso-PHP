@@ -1,0 +1,13 @@
+Aula 28, 29
+
+Funcoes para String
+strtoupper  (converte a string para tudo em maiusculo)
+strtolower  (converte a string para tudo em minusculo)
+substr      (Retorna uma parte de uma string)
+srt_pad     (Complementa uma outra string com uma quantidade x de char)
+str_repeat  (Repete a string)
+strlen      (Retorna o tamanho da string)
+str_replace (Substitui uma palavra em um texto)
+strpos      (Retorna a posicao de uma palavra em um texto)
+
+

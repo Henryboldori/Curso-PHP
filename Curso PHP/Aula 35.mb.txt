@@ -1,0 +1,13 @@
+Aula 35 
+
+Filtros de validacao   (filter_input - filter_var)
+FILTER_VALIDATE_INT
+FILTER_VALIDATE_EMAIL
+FILTER_VALIDATE_FLOAT
+FILTER_VALIDATE_IP
+FILTER_VALIDATE_URL
+filter_input
+
+isset (verifica se existe)
+empty( verifica se esta vazio)
+"<li> $x </li>" (listar)

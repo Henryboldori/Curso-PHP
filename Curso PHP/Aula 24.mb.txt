@@ -1,0 +1,14 @@
+Aula 24
+
+Operadores de comparacao
+ Igual      == 
+ Difrente   != 
+ Identidade     ===
+ Nao identico   !===
+ Difrente       <>
+ Maior      >
+ Menor      <
+ Menor Igual    <=
+ Maior Igual    >=
+ comparacao     <=>     \\resultado so pode ser -1, 0, 1
+   

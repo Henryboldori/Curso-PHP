@@ -1,0 +1,7 @@
+Aula 10
+
+Escopo de variaveis
+Difenrenca Escopo global e Escopo Local 
+\\ global $nome
+\\ $GLOBALS['a'] + GLOBALS['b'];
+

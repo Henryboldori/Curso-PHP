@@ -1,0 +1,5 @@
+Aula 09
+
+Aspas simples  // literais, nao interpretadas
+Aspas duplas   // interpretadas
+Concatenação   // '.$nome.' e \'23\'

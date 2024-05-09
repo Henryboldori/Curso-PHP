@@ -1,0 +1,8 @@
+Aula 32, 33, 34
+
+Variaveis superglobais
+$GLOBALS    -   armazena todas as variaveis globais em um array     \\$GLOBALS['X']
+$_SERVER    -   array com indices(consultar os indices disponiveis no manual do PHP)       \\$_SERVER['indice']           
+$_POST      -   coleta dados de formularios     \\$_POST['indice']
+$_GET       - envia dados via URL(necessario filtrar os dados do usuario)       \\$_GET['indice']
+

@@ -1,0 +1,8 @@
+Aula 22
+
+Operadores de incremento/decremento
+Somar ou Subtrair em (+1 ou -1) qualquer valor do tipo numerico ou string
+Pre-incremento      \\++$x
+Pos-incremento      \\$x++
+Pre-decremento      \\ --$x
+pos-decremento      \\$x--

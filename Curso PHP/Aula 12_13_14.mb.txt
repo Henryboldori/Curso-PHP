@@ -1,0 +1,17 @@
+Aula 12, 13, 14
+
+Arrays
+ $x = array ("xx", "yy", "zz");
+ print_r ($x);   (nao pode ser echo)
+
+Para inserir elementos -        \\$x [] = "ww";
+Exibir a quantidade de elementos  - count
+Percorrer Array  - foreach      \\foreach (xx as yy)
+
+Array Associativo
+indices ou chaves sao strings   
+
+Array multidimensional      \\ $x array( "y" => array())
+
+
+    

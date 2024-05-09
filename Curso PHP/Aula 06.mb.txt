@@ -1,0 +1,7 @@
+Aula 06
+
+Declarar variaveis  // $nomeVar
+Case Sensitive 
+Necessario ";"
+Pula linha  / Qeubra de linha   // <br>   <hr>
+

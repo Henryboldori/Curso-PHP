@@ -1,0 +1,25 @@
+Aula 26, 27
+
+Estrutura de repeticao
+While 
+    while():
+
+    endwhile;
+
+Do While
+    do {
+
+
+    } while();
+
+
+For 
+    for():
+
+    endfor;
+
+foreach     -   utilizado para percorrer array
+    foreach($array as $x):
+
+    endforeach;
+    

@@ -1,0 +1,8 @@
+Aula 25
+
+Operadores logicos
+e   (&& -and)
+ou  (|| - or)
+ou exclusivo    (xor)
+negacao (!)
+

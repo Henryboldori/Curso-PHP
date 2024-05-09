@@ -1,0 +1,17 @@
+Aula 19, 20
+
+Condicionais
+if
+else
+elseif
+
+switch ($x):
+    case "xx":
+        echo ....;
+    break;
+    case "yy":
+        echo ....;
+    break;
+endswitch;
+
+
