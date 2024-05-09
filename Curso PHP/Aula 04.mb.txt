@@ -2,4 +2,4 @@ Aula 04
 
 Criação do projeto
 Virtual hosts
-Testede do WampServer
+Teste de do WampServer
