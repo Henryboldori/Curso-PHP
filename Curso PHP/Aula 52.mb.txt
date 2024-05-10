@@ -1,0 +1,7 @@
+Aula 52
+
+COOKIE
+Salva informacoes do usuario
+Fica armazenado no computador, nao no servidor
+
+setcookie('user', 'nome', time()+3600);

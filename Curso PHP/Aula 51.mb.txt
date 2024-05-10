@@ -1,0 +1,6 @@
+Aula 51
+
+XSS(Cross Site Scripting)
+codigo malicioso atraves de Scripting
+
+$var = htmlspecialchars($var)

@@ -1,0 +1,13 @@
+Aula 54
+
+Manipulacao de arquivos
+
+$arquivo = 'arquivo.txt'
+
+fopen($arquivo, 'mode')         (abre o arquivo)
+fwrite($arquivo, $conteudo)     (escreve o conteudo no arquivo)
+fclose($arquivo)           (fecha o arquivo)
+feof($arquivo)      (final do arquivo)
+fgets()     (pega o conteudo do arqvuio)
+filesize($arquivo)      (tamanho do arquivo)
+

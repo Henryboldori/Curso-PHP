@@ -1,0 +1,11 @@
+Aula 55
+
+Expressoes Regulares e Preg_Match[Final]
+
+preg_match($padrao, $string)           (validar as Expressoes Regulares)
+
+$padrao = "/^a$/";              (^ inicio da expressao) ($final da expressao)
+$padrao = "/^[a-z0-9]$/";    (conjunto de caracteres)
+$padrao = "/^[a-z0-9]${num}/";      ({} define o numero de ocorrencias) ({0,1} *{0,}  {+1,})
+
+ex validando um email   - $padrao = "/^[a-z0-9.\-\_]+@[a-z0-9.\-\_]+\.(com|br|com.br)$/i";   

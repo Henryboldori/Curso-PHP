@@ -1,0 +1,14 @@
+Aula 53
+
+Trabalhando com Datas
+
+date_default_timezone_set('America/Sao_Paulo');
+
+date('d/m/Y');
+date(H:i:s);
+
+time();     (retorna a quantidade de segundos que passaram desde um tempo)
+
+mktime()    (datas passadas ou futuras)
+
+strtotime($data);   (formata a string para data)

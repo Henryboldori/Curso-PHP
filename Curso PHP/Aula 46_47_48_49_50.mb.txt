@@ -1,0 +1,15 @@
+Aula 46, 47, 48, 49, 50
+
+CRUD com PHP Procedural, MYSQL e Materialize CSS
+
+Create, Read
+Realizar a conexao com o banco de dados     \\mysqli_connect();
+Inserir os dados no banco de dados          \\"INSET INTO tabela(dados)VALUES($dados)"
+Verificar se foi inserido         \\mysqli_query
+Setar a codificacao         \\mysqli_set_charset($connect,'codificacao');
+
+Update
+$sql = "UPDATE x SET y = $z
+
+Delete
+$sql = "DELETE FROM y WHERE z= $z
