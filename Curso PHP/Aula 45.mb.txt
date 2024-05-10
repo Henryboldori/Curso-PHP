@@ -1,0 +1,9 @@
+Aula 45
+
+Include/require     (incluir o conteudo de um arquivo PHP em outro arquivo PHP)
+
+include_once 'arquivo.php'
+require_once 'arquivo.php'
+comando once verifica se o arquivo ja nao foi incluido anteriormente
+
+

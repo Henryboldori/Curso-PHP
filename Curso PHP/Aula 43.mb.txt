@@ -1,0 +1,8 @@
+Aula 43
+
+Senhas seguras com password hash
+
+$senhaSegura = password_hash($senha, PASSWORD_DEFAULT);
+'cost' => 10   (valor do  hash)
+
+password_verify($senha, $senha_db)

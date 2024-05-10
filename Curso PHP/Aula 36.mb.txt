@@ -1,0 +1,15 @@
+Aula 36
+
+Filtros de sanitizacao
+Serve para limpar as variaveis
+filter_input(INPUT_POST, 'x', FILTER_SANITIZE_)
+FILTER_SANITIZE_SPECIAL_CHARS   
+FILTER_SANITIZE_INT     (filtrar dados do tipo inteiro)
+FILTER_SANITIZE_EMAIL   (filtrar dados de email)
+FILTER_SANITIZE_URL     (filtrar dados URL)
+
+Filtro de validacao
+filter_var($x,FILTER_VALIDATE_)
+FILTER_VALIDATE_INT
+FILTER_VALIDATE_EMAIL
+FILTER_VALIDATE_URL

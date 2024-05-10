@@ -1,0 +1,6 @@
+Aula 44
+
+SQL Injection
+105 OR 1=1      (consulta qualquer elemento do banco de dados)
+1; DROP TABLE teste     (consegue apagar elemento do banco de dados)
+

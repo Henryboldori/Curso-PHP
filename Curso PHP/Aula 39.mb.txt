@@ -1,0 +1,9 @@
+Aula 39
+
+Sessoes
+Armazenar informacoes que poderao ser utilizadas em varias paginas
+
+session_start();        (utilizar no inicio)
+session_id();      (numero id para a sessao)
+session_unset();       (para limpar a sessao)
+session_destroy();      (para destruir a sessao)

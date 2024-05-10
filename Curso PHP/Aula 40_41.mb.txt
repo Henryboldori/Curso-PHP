@@ -1,0 +1,27 @@
+Aula 40, 41
+
+Sistema de login (PHP Procedural)
+Necessario criar um banco de dados
+Sempre comeca com o ID
+
+Conexao com banco de dados:
+$x = mysqli_connect();      (suporte para programacao procedural e orientada a objeto)
+mysqli_connect_error();      (retorna se houver algum erro)
+
+
+require_once 'arquivo'      (realiza a conexao dos arquivos)
+mysqli_escape_string($conexao,$var);        
+
+$sql = "SELECT login FROM usuarios WHERE login = 'login'";     (verifica se existe os dados)
+$resultado = mysqli_query($connect, $sql);
+
+mysqli_num_rows();      (verifica numero de linhas)
+mysqli_fetch_array();    (converte o resultado em array)
+header()         (direciona)
+
+md5($senha)     (criptografar a senha)
+
+SELECT *    (seleciona todos os campos)
+
+mysqli_close($arquivo)      (encerra a conexao)
+

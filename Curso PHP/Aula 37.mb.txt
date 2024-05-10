@@ -1,0 +1,11 @@
+Aula 37
+
+Upload de arquivos
+
+move_uploaded_file($x, $y.$novoY)
+
+methodo="POST"
+enctype="multipart/form-data">
+
+$x = pathinfo($_FILES['arquivo']['y'], PATHINFO_EXTENSION)      (pegar extensao de um arquivo)
+

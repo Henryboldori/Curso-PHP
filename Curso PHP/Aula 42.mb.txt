@@ -1,0 +1,13 @@
+Aula 42
+
+Criptografia/codificacao
+base64_encode($senha)   (Criptografia de mao dupla)
+base64_decode($novaSenha)   (Descriptografar)
+
+md5($senha);    (Criptografia de mao unica)
+
+sha1($senha);   (Criptografia de mao unica)
+
+md5 e sha1 sempre geram o mesmo hash
+
+
